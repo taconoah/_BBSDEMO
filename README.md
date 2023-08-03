@@ -12,5 +12,9 @@
   <p>文件解压</p>
   <p>进入到项目文件夹</p>
   <p>前端: npm run dev</p>
-  <p>后端: node app.js</p>
+  <div>
+    <p>后端运行如下</p>
+    <p>1.SQL语句导入本地数据库当中</p>
+    <p>2.node app.js</p>
+  </div>
 </pre>
