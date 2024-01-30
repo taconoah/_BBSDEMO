@@ -1,20 +1,33 @@
-<h2>极客论坛项目1.0</h2>
+## 极客论坛项目1.0
 
-<h2>前言</h2>
-<p>非常简单的Vue3+Node全栈项目,整个项目还有未完善的地方。希望大佬多提宝贵意见。</p>
-<h2>技术栈</h2>
-<div>
-  <p>前端: HTML、CSS、SCSS、JavaScript、ES6、Axios、Vue3、Pinia、element-plus</p>
-  <p>后端: Node(Express框架) Mysql </p>
-</div>
-<h2>项目运行</h2>
-<pre>
-  <p>文件解压</p>
-  <p>进入到项目文件夹</p>
-  <p>前端: npm run dev</p>
-  <div>
-    <p>后端运行如下</p>
-    <p>1.SQL语句导入本地数据库当中</p>
-    <p>2.node app.js</p>
-  </div>
-</pre>
+## 前言
+
+非常简单的Vue3+Node全栈项目,整个项目还有未完善的地方。希望大佬多提宝贵意见。
+
+## 技术栈
+
+#### 前端技术栈
+
+-  **HTML、CSS、SCSS、JavaScript、ES6、Axios、Vue3、Pinia、element-plus**
+
+#### 后端技术栈
+
+- **Node.js、Express.js框架、Mysql**
+
+## 项目运行
+
+- 文件解压
+
+- 进入项目文件夹
+
+- 前端
+
+  1. npm run dev启动项目
+
+- 后端
+
+  1. 更改数据库连接配置
+  2. SQL语句导入本地数据库当中
+  3. node app.js
+
+  
