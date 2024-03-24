@@ -8,7 +8,11 @@
 
 #### 前端技术栈
 
+<<<<<<< HEAD
 -  **HTML、CSS、SCSS、JavaScript、ES6、Axios、Vue3、Pinia、element-plus、Vite**
+=======
+-  **HTML、CSS、SCSS、JavaScript、ES6、Axios、Vue3、Pinia、element-plus**
+>>>>>>> 1d5bfbd19e4a3da20dd6652eaad87dd98c92c6d3
 
 #### 后端技术栈
 
